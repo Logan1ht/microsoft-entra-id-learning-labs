@@ -22,7 +22,11 @@ Practice the core lifecycle of a cloud identity: create a member account, inspec
 3. Review the **Account enabled** setting.
 4. Create the test user.
 
-**Evidence:** The account creation form was captured during the exercise, but its screenshot has not yet been uploaded to this repository.
+**Evidence — New user creation form**
+
+![Microsoft Entra ID Create new user form with identity, password, and account enabled fields](screenshots/423b0ef2-059d-453a-b3e5-78c9626f6674.png)
+
+*The screenshot shows the account creation interface; successful creation is verified in the next section.*
 
 ### 2. Verify the account
 1. Find the newly created account under **All users**.
