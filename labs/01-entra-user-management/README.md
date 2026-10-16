@@ -22,24 +22,25 @@ Practice the core lifecycle of a cloud identity: create a member account, inspec
 3. Review the **Account enabled** setting.
 4. Create the test user.
 
-**Evidence:** [01-create-user.png](screenshots/01-create-user.png) — account creation form.  
-*Screenshot pending repository upload.*
+**Evidence:** The account creation form was captured during the exercise, but its screenshot has not yet been uploaded to this repository.
 
 ### 2. Verify the account
 1. Find the newly created account under **All users**.
 2. Open its profile.
 3. Verify **User type: Member** and **Account status: Enabled**.
 
-**Evidence:** [02-created-user-profile.png](screenshots/02-created-user-profile.png) — created user's overview.  
-*Screenshot pending repository upload.*
+**Evidence — Created user profile**
+
+![Created member user profile showing enabled status](screenshots/63315200-4112-41a3-afc4-d45dd9223657.png)
 
 ### 3. Select and delete the account
 1. Return to **All users**.
 2. Select the test account.
 3. Use **Delete** to remove the account.
 
-**Evidence:** [03-user-selected-for-deletion.png](screenshots/03-user-selected-for-deletion.png) — selected account and Delete action.  
-*Screenshot pending repository upload.*
+**Evidence — User selected for deletion**
+
+![Selected user in All users with Delete action visible](screenshots/5e349eca-23b7-48c6-b3aa-c7462990f413.png)
 
 ### 4. Inspect Deleted users
 1. Open **Users → Deleted users**.
@@ -48,17 +49,22 @@ Practice the core lifecycle of a cloud identity: create a member account, inspec
 
 In this lab, the portal indicated that deleted users are automatically permanently deleted after **30 days**.
 
-**Evidence:** [04-deleted-user.png](screenshots/04-deleted-user.png) — deleted account and recovery controls.  
-*Screenshot pending repository upload.*
+**Evidence — Deleted user and recovery options**
+
+![Deleted user listed with Restore users and Delete permanently actions](screenshots/687417d2-040a-46c5-9262-eb4c30ea071b.png)
 
 ### 5. Restore and verify
 1. Select the deleted test account and choose **Restore users**.
 2. Confirm the restoration.
 3. Return to **All users** and verify the account is listed again.
 
-**Evidence:** [05-restore-confirmation.png](screenshots/05-restore-confirmation.png) — restore confirmation dialog.  
-**Evidence:** [06-restored-user.png](screenshots/06-restored-user.png) — restored account visible in All users.  
-*Screenshots pending repository upload.*
+**Evidence — Restore confirmation**
+
+![Restore user confirmation dialog](screenshots/b2bbe1b3-f1c8-4a58-8b0e-4873d88ceca1.png)
+
+**Evidence — Restored user verified in All users**
+
+![Restored user visible in All users](screenshots/b3de9713-6ecb-41cf-a275-1ceb64d087a0.png)
 
 ## Results
 - Created and inspected a Microsoft Entra ID member user.
