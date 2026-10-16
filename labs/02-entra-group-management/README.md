@@ -35,7 +35,24 @@ Open the group overview and verify its cloud source, Security group type, and As
 2. Confirm the removal.
 3. Verify that one test user remains in the group's direct membership list.
 
-**Evidence:** Screenshots of group creation, overview, member selection, the three-member list, removal confirmation, and final one-member list were captured during the lab. Upload sanitized images to a `screenshots/` folder and link them here.
+**Screenshot evidence**
+
+![Lab 002 evidence screenshot 1](screenshots/Screenshot%202026-10-16%20132625.png)
+
+![Lab 002 evidence screenshot 2](screenshots/Screenshot%202026-10-16%20162514.png)
+
+![Lab 002 evidence screenshot 3](screenshots/Screenshot%202026-10-16%20162550.png)
+
+![Lab 002 evidence screenshot 4](screenshots/Screenshot%202026-10-16%20162830.png)
+
+![Lab 002 evidence screenshot 5](screenshots/Screenshot%202026-10-16%20162946.png)
+
+![Lab 002 evidence screenshot 6](screenshots/Screenshot%202026-10-16%20163203.png)
+
+![Lab 002 evidence screenshot 7](screenshots/Screenshot%202026-10-16%20163316.png)
+
+![Lab 002 evidence screenshot 8](screenshots/Screenshot%202026-10-16%20163428.png)
+
 
 ## Dynamic membership — concepts studied, not implemented
 
