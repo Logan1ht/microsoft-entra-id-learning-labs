@@ -86,4 +86,4 @@ In this lab, the portal indicated that deleted users are automatically permanent
 This lab demonstrates basic user lifecycle operations. It does **not** demonstrate MFA enforcement, role assignments, group-based licensing, Conditional Access, automated provisioning, or privileged identity governance. Those topics belong in later labs.
 
 ## Reference
-Waleed Mir — SC-300 Microsoft Identity and Access Administrator video training, user management lesson. This is a guided learning exercise, not an independently designed production deployment.
+Waleed Mir — SC-300 Microsoft Identity and Access Administrator video training, user management lesson. 
